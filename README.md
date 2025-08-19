@@ -6,13 +6,14 @@
 
 O app utiliza o acelerômetro e o GPS do dispositivo para capturar os dados de vibração e localização em tempo real, e os armazena localmente em um banco de dados SQLite.
 
-📱 Funcionalidade Principal
+### 📱 Funcionalidade Principal
 
 O aplicativo faz:
 
-📡 Captura da Localização GPS
-📊 Leitura do Acelerômetro
+📡 Captura da Localização GPS<br>
+📊 Leitura do Acelerômetro<br>
 🎯 Cálculo da intensidade da trepidação
+
 🗃️ Armazenamento local dos dados no SQLite
 
 Esses dados podem ser utilizados posteriormente para:
@@ -28,8 +29,8 @@ Esses dados podem ser utilizados posteriormente para:
 
 📱 Tecnologias Utilizadas
 
-Xamarin.Forms (para Android, multiplataforma)
-Plugin.Geolocator (para localização GPS)
+Xamarin.Forms (para Android, multiplataforma)<br>
+Plugin.Geolocator (para localização GPS)<br>
 Xamarin.Essentials (acesso ao acelerômetro)
 SQLite-net-pcl (banco local)
 
