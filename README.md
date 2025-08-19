@@ -2,7 +2,7 @@
 
 🚧 TrepidaApp
 
-TrepidaApp é um aplicativo mobile desenvolvido em .NET MAUI que tem como objetivo identificar ruas esburacadas ou com muita trepidação. 
+<b>TrepidaApp</b> é um aplicativo mobile desenvolvido em .NET MAUI que tem como objetivo identificar ruas esburacadas ou com muita trepidação. 
 
 O app utiliza o acelerômetro e o GPS do dispositivo para capturar os dados de vibração e localização em tempo real, e os armazena localmente em um banco de dados SQLite.
 
